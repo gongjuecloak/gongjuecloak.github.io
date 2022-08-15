@@ -2098,13 +2098,6 @@
   </url>
   
   <url>
-    <loc>https://blog.gjcloak.top/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2022-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.gjcloak.top/tags/%E6%92%AD%E6%94%BE%E5%99%A8/</loc>
     <lastmod>2022-08-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -2120,6 +2113,13 @@
   
   <url>
     <loc>https://blog.gjcloak.top/tags/YesPlayMusic/</loc>
+    <lastmod>2022-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.gjcloak.top/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2022-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

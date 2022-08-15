@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.gjcloak.top/7f72eb2c.html</loc>
+    
+    <lastmod>2022-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.gjcloak.top/logs/index.html</loc>
     
     <lastmod>2022-08-15</lastmod>
@@ -2202,6 +2211,13 @@
   
   <url>
     <loc>https://blog.gjcloak.top/tags/butterfly/</loc>
+    <lastmod>2022-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.gjcloak.top/tags/%E5%9C%B0%E5%9B%BE/</loc>
     <lastmod>2022-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

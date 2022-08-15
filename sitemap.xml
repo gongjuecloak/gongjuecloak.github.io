@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.gjcloak.top/f6072fd7.html</loc>
+    
+    <lastmod>2022-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.gjcloak.top/7f72eb2c.html</loc>
     
     <lastmod>2022-08-15</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://blog.gjcloak.top/fcircle/index.html</loc>
-    
-    <lastmod>2022-08-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.gjcloak.top/f6072fd7.html</loc>
     
     <lastmod>2022-08-12</lastmod>
     
@@ -2042,14 +2042,7 @@
   </url>
   
   <url>
-    <loc>https://blog.gjcloak.top/tags/echo/</loc>
-    <lastmod>2022-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.gjcloak.top/tags/data/</loc>
+    <loc>https://blog.gjcloak.top/tags/API/</loc>
     <lastmod>2022-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2064,13 +2057,6 @@
   
   <url>
     <loc>https://blog.gjcloak.top/tags/%E7%BE%8E%E6%96%87/</loc>
-    <lastmod>2022-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.gjcloak.top/tags/response/</loc>
     <lastmod>2022-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2098,6 +2084,13 @@
   </url>
   
   <url>
+    <loc>https://blog.gjcloak.top/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2022-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.gjcloak.top/tags/%E6%92%AD%E6%94%BE%E5%99%A8/</loc>
     <lastmod>2022-08-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -2113,13 +2106,6 @@
   
   <url>
     <loc>https://blog.gjcloak.top/tags/YesPlayMusic/</loc>
-    <lastmod>2022-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.gjcloak.top/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2022-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

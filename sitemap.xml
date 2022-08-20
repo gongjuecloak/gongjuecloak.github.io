@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.gjcloak.top/83b586d0.html</loc>
+    
+    <lastmod>2022-08-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.gjcloak.top/2faa635d.html</loc>
+    
+    <lastmod>2022-08-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.gjcloak.top/logs/index.html</loc>
     
     <lastmod>2022-08-20</lastmod>
@@ -176,15 +194,6 @@
     <loc>https://blog.gjcloak.top/8a93dfe.html</loc>
     
     <lastmod>2022-08-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.gjcloak.top/2faa635d.html</loc>
-    
-    <lastmod>2022-08-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2238,6 +2247,13 @@
   
   <url>
     <loc>https://blog.gjcloak.top/tags/%E7%BB%BC%E5%90%88%E5%9B%BD%E5%8A%9B%E7%AF%87/</loc>
+    <lastmod>2022-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.gjcloak.top/tags/%E5%93%88%E5%A7%86%E8%8E%B1%E7%89%B9/</loc>
     <lastmod>2022-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

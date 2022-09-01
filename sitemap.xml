@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.gjcloak.top/10267f91.html</loc>
+    
+    <lastmod>2022-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.gjcloak.top/f6072fd7.html</loc>
     
     <lastmod>2022-09-01</lastmod>
@@ -2222,13 +2231,6 @@
   </url>
   
   <url>
-    <loc>https://blog.gjcloak.top/tags/hexo%E9%AD%94%E6%94%B9/</loc>
-    <lastmod>2022-09-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.gjcloak.top/tags/%E6%A0%87%E7%AD%BE/</loc>
     <lastmod>2022-09-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -2257,6 +2259,13 @@
   </url>
   
   <url>
+    <loc>https://blog.gjcloak.top/tags/hexo%E9%AD%94%E6%94%B9/</loc>
+    <lastmod>2022-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.gjcloak.top/tags/%E5%9C%B0%E5%9B%BE/</loc>
     <lastmod>2022-09-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -2272,6 +2281,13 @@
   
   <url>
     <loc>https://blog.gjcloak.top/tags/%E5%93%88%E5%A7%86%E8%8E%B1%E7%89%B9/</loc>
+    <lastmod>2022-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.gjcloak.top/tags/rss/</loc>
     <lastmod>2022-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

@@ -1141,13 +1141,6 @@
   </url>
   
   <url>
-    <loc>https://blog.gjcloak.top/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
-    <lastmod>2022-09-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.gjcloak.top/tags/wordpess/</loc>
     <lastmod>2022-09-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -2374,6 +2367,13 @@
   
   <url>
     <loc>https://blog.gjcloak.top/tags/%E9%92%89%E9%92%89%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
+    <lastmod>2022-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.gjcloak.top/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
     <lastmod>2022-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

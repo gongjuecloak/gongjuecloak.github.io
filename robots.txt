@@ -1,9 +1,15 @@
+# welcome to : blog.gjcloak.top
 User-agent: *
 Allow: /
 Allow: /archives/
 Allow: /categories/
-Allow: /tags/
 Allow: /about/
+Allow: /links/
+Allow: /tags/
+Allow: /goods/
+Allow: /fcircle/
+Allow: /essay/
+
 Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/

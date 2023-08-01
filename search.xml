@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>【VIC3】MOD推荐 —— 更真实的人口系统改动</title>
+      <link href="/29778300.html"/>
+      <url>/29778300.html</url>
+      
+        <content type="html"><![CDATA[<p>你是不是被V3后期巨量人口增长所烦恼？那就快来订阅一下更真实的人口系统改动这个MOD吧，绝对可以彻底解决后期人口爆炸增长这一老大难问题。</p><h2 id="具体改动介绍"><a href="#具体改动介绍" class="headerlink" title="具体改动介绍"></a>具体改动介绍</h2><ol><li><p>城镇化率和识字率会降低出生率和受抚养人口收入，每提高一级城镇化率就会降低0.001出生率和受抚养人口收入，每提高百分之10识字率就会降低百分之3出生率和百分之2受抚养人口收入</p></li><li><p>将p社原版生活水平英雄人口增速的阈值从8 20 40 调整到6  18   28 也就是代表生活水平6以下的出生率会逐渐减少，6-18出生率一直增加，18人口增长率增幅最快，28时出生率和死亡率达成平衡即不在增长。</p></li><li><p>给每个省份写了出生率变量触发器，根据省份的平均生活水平增加或降低出生率，从6开始增加，12生活水平出生率增加最多，15生活水平出生率开始下降，28生活水平出生率降低最多，之后31往后统一降低百分之十二左右出生率</p></li><li><p>给各种法律和税收加上出生率修正。允许童工会增加百分之五出生率，减百分之五最低工资，增加各种职业百分之五的死亡率.法定监护会增加百分之五的出生率。我在义务小学的基础上又增加了义务中学，这两个都会较大幅度降低出生率，受抚养人口收入，和增加受教育机会。这几个buff配合识字率的增加，必将给之前随随便便增长的出生率给予最沉重的打击。当然我给各种福利法律都加了增加出生率的机制，包括社会福利工人权利公共医疗和经济体制都能增加出生率，以应对出生率一直掉的挑战。税收等级现在也和出生率挂钩，极低低中等高极高税收的出生率分别为+2 +1 0 -2 -4 。</p></li><li><p>给受抚养人口收入加了个减100收入之后，全世界人口都在负增长。因此减少受抚养人口收入就约等于模拟了工业社会越发展就越打击劳动力再生产的过程，所以城镇化率和识字率也和受抚养人口收入减少挂钩，小学和中学法律也会大量降低受抚养人口收入进而降低出生率。之后我给法国开局加了个拿破仑继承法的变量减百分之10出生率。这样就更能模拟出现实中法国不生育的情况。</p></li><li><p>增加了计划生育法律，分为口头鼓励、小幅度鼓励、大幅度鼓励、口头控制、小幅度控制、大幅度控制，选择口头鼓励的话不花费税收但是增加的出生率很少，选择小幅度和大幅度的话会降低百分比的税收以模拟现实，控制生育同理</p></li></ol><h2 id="作者想说的话"><a href="#作者想说的话" class="headerlink" title="作者想说的话"></a>作者想说的话</h2><p>关于控制人口出生率，其实我是不愿意做那种建某种建筑就能精确降低增加出生率的改动，这在现实中也是不可能存在的，我做的这个人口系统改动，其实模拟的是一种人口增长变化的历史大趋势，玩家只能通过扮演国家意志来顺应历史趋势来进行改动。</p><p>以现实社会为例，随着城镇化和教育程度的不断提高，印度的生育率从1950年的6.0一直降低到2022年的2.0，首次低于人口更替线2.1，而印度的大城市生育率仅有1.5。教育和城镇化是最好的避孕药此言不虚。</p><p>而且根据查阅现实人口增减的资料和自己的理解，我个人认为前工业社会出生率高的原因其一就是因为当时生孩子的抚养成本很低，只需要多一双筷子管吃饭就可以，但孩子长大到十几岁就完全可以给家里进行打工赚钱，完全是正收益，因此前工业社会生的孩子越多，家庭收入就越多，因此生育率就很高。而随着工业化社会的不断发展，孩子需要进行教育和学习，生一个孩子不光不能给家庭带来收入反而需要父母来供养，劳动力再生产的成本越来越高，因此出生率就会逐步降低，这是社会发展的趋势，而不是生活水平越高越发展人们就会没有节制的进行生育，这是不可能的，这也直接证明了马尔萨斯主义是错误的。</p><p>因此想要生育率上升，在我这个MOD里只有两种选择，一种是开历史倒车，大幅度降低受教育程度，让孩子不接受教育，女人只能生孩子不能工作，让其精神世界约等于0，也就是对应的允许童工和法定监护，这样就能生育率重回之前的高水平。另一种就是制定各种福利政策，相当于现实社会中的鼓励生育。劳动者权益，社会福利，医疗这些法律越先进，就会增加一定量的出生率，经济体制中的计划经济和合作社所有制也能增加出生率，不过这个效果肯定收效甚微，还是抵不过出生率随着社会发展而降低的大势。</p><h2 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h2><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://pan.baidu.com/s/1DiIZIAVB2eFhi4qLagXeVQ">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://api.iowen.cn/favicon/pan.baidu.com/s/1DiIZIAVB2eFhi4qLagXeVQ.png);"></div>        <div class="tag-link-right">            <div class="tag-link-title">更真实的人口系统改动</div>            <div class="tag-link-sitename">提取码：1848</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div><h2 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h2><p><img src="https://cos.gjcloak.xyz/pigo/202308011916636.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p><img src="https://cos.gjcloak.xyz/pigo/202308011916370.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p><img src="https://cos.gjcloak.xyz/pigo/202308011916960.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p><img src="https://cos.gjcloak.xyz/pigo/202308011916736.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p><img src="https://cos.gjcloak.xyz/pigo/202308011916289.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p><img src="https://cos.gjcloak.xyz/pigo/202308011915505.webp?imageMogr2/format/webp/interlace/1/quality/0"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> P社 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> VIC3 </tag>
+            
+            <tag> Mod推荐 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo 条件勾选后显示评论</title>
       <link href="/0.html"/>
       <url>/0.html</url>
@@ -407,13 +434,13 @@
             
             <tag> 更新日志 </tag>
             
-            <tag> 维多利亚3 </tag>
-            
             <tag> 1.3 </tag>
             
             <tag> 战犯 </tag>
             
             <tag> 维多利亚2 </tag>
+            
+            <tag> 维多利亚3 </tag>
             
         </tags>
       
@@ -469,9 +496,9 @@
             
             <tag> P社 </tag>
             
-            <tag> 开发日志 </tag>
-            
             <tag> 维多利亚3 </tag>
+            
+            <tag> 开发日志 </tag>
             
         </tags>
       
@@ -4606,9 +4633,9 @@
             
             <tag> 去中心化 </tag>
             
-            <tag> mastodon </tag>
-            
             <tag> 教程 </tag>
+            
+            <tag> mastodon </tag>
             
             <tag> 推特 </tag>
             

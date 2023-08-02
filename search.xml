@@ -126,9 +126,9 @@
             
             <tag> mod </tag>
             
-            <tag> HOI4 </tag>
-            
             <tag> 钢铁雄心4 </tag>
+            
+            <tag> HOI4 </tag>
             
         </tags>
       
@@ -155,9 +155,9 @@
             
             <tag> CK3 </tag>
             
-            <tag> CT </tag>
-            
             <tag> 王国风云3 </tag>
+            
+            <tag> CT </tag>
             
         </tags>
       
@@ -246,11 +246,11 @@
             
             <tag> CK3 </tag>
             
-            <tag> 王国风云3 </tag>
-            
             <tag> Crusader Kings III </tag>
             
             <tag> dlc </tag>
+            
+            <tag> 王国风云3 </tag>
             
         </tags>
       
@@ -345,9 +345,9 @@
             
             <tag> 分享 </tag>
             
-            <tag> 补丁 </tag>
-            
             <tag> 成就 </tag>
+            
+            <tag> 补丁 </tag>
             
         </tags>
       
@@ -864,9 +864,9 @@
             
             <tag> dota2 </tag>
             
-            <tag> 比赛 </tag>
-            
             <tag> 更新内容 </tag>
+            
+            <tag> 比赛 </tag>
             
         </tags>
       
@@ -1050,9 +1050,9 @@
             
             <tag> 教程 </tag>
             
-            <tag> 黄埔兵书 </tag>
-            
             <tag> 贸易 </tag>
+            
+            <tag> 黄埔兵书 </tag>
             
         </tags>
       
@@ -1108,13 +1108,13 @@
       
         <tags>
             
-            <tag> 图片 </tag>
-            
             <tag> p站 </tag>
             
             <tag> 分享 </tag>
             
             <tag> 插画 </tag>
+            
+            <tag> 图片 </tag>
             
         </tags>
       
@@ -1449,8 +1449,6 @@
       
         <tags>
             
-            <tag> 壁纸 </tag>
-            
             <tag> p站 </tag>
             
             <tag> 分享 </tag>
@@ -1458,6 +1456,8 @@
             <tag> 插画 </tag>
             
             <tag> 二次元 </tag>
+            
+            <tag> 壁纸 </tag>
             
         </tags>
       
@@ -1482,9 +1482,9 @@
       
         <tags>
             
-            <tag> python </tag>
-            
             <tag> 教程 </tag>
+            
+            <tag> python </tag>
             
             <tag> api </tag>
             
@@ -1662,13 +1662,13 @@
       
         <tags>
             
-            <tag> poxiv </tag>
-            
             <tag> p站 </tag>
             
             <tag> 分享 </tag>
             
             <tag> 插画 </tag>
+            
+            <tag> poxiv </tag>
             
         </tags>
       
@@ -1871,13 +1871,13 @@
       
         <tags>
             
+            <tag> pixiv </tag>
+            
             <tag> p站 </tag>
             
             <tag> 分享 </tag>
             
             <tag> 插画 </tag>
-            
-            <tag> pixiv </tag>
             
         </tags>
       
@@ -1964,9 +1964,9 @@
             
             <tag> dota2 </tag>
             
-            <tag> DPC </tag>
-            
             <tag> 比赛 </tag>
+            
+            <tag> DPC </tag>
             
         </tags>
       
@@ -2022,11 +2022,11 @@
       
         <tags>
             
+            <tag> 壁纸 </tag>
+            
             <tag> 动漫 </tag>
             
             <tag> 图片 </tag>
-            
-            <tag> 壁纸 </tag>
             
             <tag> 美图 </tag>
             
@@ -2868,9 +2868,9 @@
       
         <tags>
             
-            <tag> 需求 </tag>
-            
             <tag> 项目管理 </tag>
+            
+            <tag> 需求 </tag>
             
             <tag> 初级 </tag>
             
@@ -3362,11 +3362,11 @@
       
         <tags>
             
+            <tag> 项目管理 </tag>
+            
             <tag> 需求 </tag>
             
             <tag> 项目 </tag>
-            
-            <tag> 项目管理 </tag>
             
         </tags>
       
@@ -3391,9 +3391,9 @@
       
         <tags>
             
-            <tag> 项目管理 </tag>
-            
             <tag> 范围基准 </tag>
+            
+            <tag> 项目管理 </tag>
             
         </tags>
       
@@ -3531,6 +3531,37 @@
             <tag> docker </tag>
             
             <tag> MediaWiki </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>拜占庭（Byzantium）1444年破局思路分享（v1.34.3）</title>
+      <link href="/1bc82aef.html"/>
+      <url>/1bc82aef.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>分享在游戏中1444年开局扮演拜占庭国家破局奥斯曼对君士坦丁堡的进攻的思路，保姆级教学，如果你有更好的方案或是有意见和建议都可以在评论区提出。</p></blockquote><h2 id="战前准备"><a href="#战前准备" class="headerlink" title="战前准备"></a>战前准备</h2><ol><li>开局贷款造3艘重型船</li><li>改善瓦拉几亚、阿尔巴尼亚、伊梅列季的关系、结盟。联姻只与伊梅列季联姻，伊梅列季的君主很老，没有继承人，有概率联统，其他两个都是将来要打的国家。</li><li>等到可以宣战的时候先吃掉伊庇鲁斯，他一般不会结盟其他国家。</li><li>贷款造到有12K步兵，再造自由佣兵团雇佣兵，避免被奥斯曼第一个宣战。</li><li>等待奥斯曼向东方更弱的卡拉曼、詹达尔宣战。</li><li>当奥斯曼对以上东巴尔干国家宣战时，将所有军队转移到君堡，将所有舰队整合加提督放在君堡海峡中间，确认没有奥斯曼舰队也一样在海峡中间时、确认奥斯曼将所有军队调集到东方后，对奥斯曼宣战。</li></ol><div class="note info modern"><p>注意：开战不要拉盟友！开战不要拉盟友！开战不要拉盟友！开战不要拉盟友！开战不要拉盟友！<br>盟友只是为了防止被奥斯曼第一个宣战所做的准备，不需要拉入战争分钱、占地、送分。</p></div><h2 id="对奥斯曼开战"><a href="#对奥斯曼开战" class="headerlink" title="对奥斯曼开战"></a>对奥斯曼开战</h2><p>宣战理由如图所示 （再次提醒<mark class="hl-label red">不要拉盟友开战</mark> ）</p><p><img src="https://cos.gjcloak.xyz/pigo/202308021833247.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>开战后，如果军事顾问有加陆军士气的可以带一个</p><p>调集军队从君堡直接攻入如图所示该省份，该城市是东西巴尔干自由通行的通道，只要强攻成功，奥斯曼便不可能进入西巴尔干，如图过程大致为，通过舰队炮击攻破城墙，等待拆塔的进度条过一层，就开始强攻拆塔，舰队加成+拆墙+拆一层进度条+强攻基本能稳拿下，如果后续版本有改动可以试试求稳拆两层进度条（两层的话奥斯曼会有充足时间调军队来救驾，你只能赌Ai不鸟你…）</p><p><img src="https://cos.gjcloak.xyz/pigo/202308021836556.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p><img src="https://cos.gjcloak.xyz/pigo/202308021836478.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p><img src="https://cos.gjcloak.xyz/pigo/202308021837303.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>然后就开始踩地，每次拆完塔记得把占领的敌方堡垒也一起关了（方法如图红圈所示），保护穷酸的经济。</p><p><img src="https://cos.gjcloak.xyz/pigo/202308021837294.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>再然后打开经济地图的劫掠模式，把军队的支出调到最低，关掉堡垒，开始踩地劫掠等待随时间上升的25点战争分数刷满。</p><p><img src="https://cos.gjcloak.xyz/pigo/202308021838006.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>吃地推荐按照任务树吃，跑出来几块和塞尔维亚接壤就行</p><p><img src="https://cos.gjcloak.xyz/pigo/202308021838584.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p><img src="https://cos.gjcloak.xyz/pigo/202308021839747.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><h2 id="战后展望"><a href="#战后展望" class="headerlink" title="战后展望"></a>战后展望</h2><p>打完奥斯曼以后你的实力应该足以和莫斯科结盟联姻，迅速和莫斯科结盟以防被匈牙利和威尼斯侵略，通过新版本的人情系统，多发展和莫斯科的外交关系就能在他变身俄罗斯的时候联统他。</p><p>远交近攻，积攒奥地利的人情，让他帮你打下威尼斯和意大利，在奥地利为你正面作战透支人力后取消盟约联合勃拉登堡等新盟友背刺奥地利，把奥地利设为宿敌开始拉法兰西好感度，以此类推。</p><p>当已经第二次&#x2F;第三次对奥斯曼战争，判断奥斯战后足够虚弱的时候，记得如下图所示把和马穆鲁克与奥斯曼接壤后路封上，确保独吞奥斯曼版图果实，刚刚恢复对巴尔干控制的拜占庭还不足以正面对抗马穆鲁克。</p><p><img src="https://cos.gjcloak.xyz/pigo/202308021839153.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>然后跟着任务树走就能愉快的重建罗马啦！</p><p><img src="https://cos.gjcloak.xyz/pigo/202308021840561.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p><img src="https://cos.gjcloak.xyz/pigo/202308021841467.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p><img src="https://cos.gjcloak.xyz/pigo/202308021841511.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>攻略到此结束，希望你能够满意，喜欢的话点个赞吧！如果你有疑问或更好的建议，欢迎在评论区留言。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> P社 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> EU4 </tag>
+            
+            <tag> 思路 </tag>
+            
+            <tag> 拜占庭 </tag>
+            
+            <tag> 破局 </tag>
             
         </tags>
       
@@ -3694,9 +3725,9 @@
       
         <tags>
             
-            <tag> 图片 </tag>
-            
             <tag> 壁纸 </tag>
+            
+            <tag> 图片 </tag>
             
             <tag> bing </tag>
             
@@ -4751,9 +4782,9 @@
             
             <tag> 产品经理 </tag>
             
-            <tag> 需求 </tag>
-            
             <tag> 项目管理 </tag>
+            
+            <tag> 需求 </tag>
             
         </tags>
       
@@ -5637,9 +5668,9 @@
             
             <tag> 群星 </tag>
             
-            <tag> 3.0 </tag>
-            
             <tag> 早战 </tag>
+            
+            <tag> 3.0 </tag>
             
         </tags>
       
@@ -5730,9 +5761,9 @@
             
             <tag> 欧陆风云4 </tag>
             
-            <tag> 综合国力篇 </tag>
-            
             <tag> 黄埔兵书 </tag>
+            
+            <tag> 综合国力篇 </tag>
             
         </tags>
       
@@ -5853,6 +5884,33 @@
             <tag> 数据库 </tag>
             
             <tag> 学习笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>EU4 部分成就及其中文化翻译</title>
+      <link href="/b0a49472.html"/>
+      <url>/b0a49472.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="行政类及特殊政治目标成就"><a href="#行政类及特殊政治目标成就" class="headerlink" title="行政类及特殊政治目标成就"></a>行政类及特殊政治目标成就</h2><ol><li><p>The Emperors new clothes<br>Overthrow Austria and become the Emperor of the Holy Roman Empire.<br>皇帝的新衣——踢掉奥皇并且成为神罗帝国的皇帝</p></li><li><p>Respected<br>Have 100 prestige, 100 legitimacy and three stability.<br>倍受尊敬——声望，正统性和国家稳定度全满</p></li><li><p>True Catholic<br>Control three Cardinals.<br>真信徒——控制三个红衣主教</p></li><li><p>Truly Divine Ruler<br>Get a 5&#x2F;5&#x2F;5 Ruler.<br>真命天子——获得一个三围能力为5-5-5的君主<br>君主制国家完全靠运气，选举制国家总统连任四届后能力将升为555</p></li><li><p>No Pirates in my Caribbean<br>Own the entire Caribbean.<br>我的加勒比不可能有海盗——拥有整个加勒比海地区</p></li><li><p>Agressive Expander<br>Own 200 provinces.<br>沙文主义者——拥有200个省份</p></li><li><p>A Kaiser not just in name<br>Enact all reforms in the Holy Roman Empire.<br>凯撒不仅仅是个名字——推行所有神罗改革和决议</p></li><li><p>Ruina Imperii<br>Dismantle the Holy Roman Empire.<br>帝国的毁灭——解散神罗。</p></li><li><p>World Conqueror<br>Conquer the World.<br>世界征服者——成为酋（球）长</p></li><li><p>Just a Little Patience<br>Play a campaign from 1444 until 1820.<br>只需要一点耐心——从1444年剧本建立游戏，一直玩到1820年。</p></li><li><p>The Re-Reconquista<br>Reconquer all of Iberia as Granada.<br>真.再征服运动——使用格兰纳达，对伊比利亚地区完成反征服。</p></li><li><p>Turn the Table<br>As a colony, break free and vassalize your former overlord.<br>扭转命运——作为一个殖民地，成功独立并且附庸你原来的宗主国。需要购买征服美洲DLC，否则无法控制该殖民地国家。</p></li><li><p>A Protected Market<br>Have 100% Mercantilism<br>被保护的市场——达到100%的重商主义政策。</p></li><li><p>The Princess is in this Castle<br>Have a female heir and a Royal Palace.<br>城堡里的公主——有一个女性继承人，并且修筑有特殊建筑大宫殿。</p></li><li><p>Electable!<br>Become an elector in the HRE as a country which does not start as elector.<br>候选资格——选一个一开始没有皇帝选帝资格的神罗成员国，获得选帝侯资格。</p></li><li><p>Vasa or Wettin?<br>Get a ruler of your dynasty on the throne of Poland or the Commonwealth while they are an elective monarchy.<br>华沙还是韦丁——当你的国家面临选择成为波兰国王还是成立波兰-立陶宛联合王国的时候，做出一项政体选择。</p></li></ol><h2 id="外交类成就"><a href="#外交类成就" class="headerlink" title="外交类成就"></a>外交类成就</h2><ol><li><p>Until death do us apart<br>Secure a Royal Marriage with another country.<br>只有死亡能够将我们分离——和另一个国家王室联姻</p></li><li><p>For the Glory<br>Diplo-annex a vassal.<br>为了荣耀——合并自己的一个附庸国</p></li><li><p>Royal Authority<br>Install an union through a succession war.<br>皇家权威——通过一场继承权战争建立一个联合统治国家</p></li><li><p>Viva la Revolución!<br>Have rebels you support in another country enforce their demands.<br>革命万岁——支持其他国家的一个叛党并且让他们的要求得到满足</p></li><li><p>Grand Coalition<br>Join a coalition of more than 5 nations.<br>大包围网——加入一个至少有5个国家参与的包围网联盟</p></li><li><p>Double the Love<br>Start with no unions and get two at the same time.<br>双份的爱——原本没有任何联合统治国家，然后获得两个（需要在一个时期内两个联统国家并存）。</p></li><li><p>The Grand Armada<br>Have 500 heavy ships and no loans.<br>大舰队——拥有500艘大型重舰并且没有负债。</p></li></ol><h2 id="军事类成就"><a href="#军事类成就" class="headerlink" title="军事类成就"></a>军事类成就</h2><ol><li><p>Victorious!<br>Win a war.<br>胜利——赢得一场战争的胜利</p></li><li><p>That is mine!<br>Conquer a province.<br>那是我的——占领一个省份</p></li><li><p>That’s a Grand Army<br>Build up your army to your country’s maximum army forcelimit.<br>那是一只大军团——把你的陆军数量增加到你的上限</p></li><li><p>That’s a Grand Navy<br>Build up your navy to your country’s maximum navy forcelimit.<br>那是一只大舰队——把你的海军数量增加到你的上限</p></li><li><p>Defender of the Faith<br>Become Defender of the Faith.<br>信仰守护者——成为信仰守护者</p></li><li><p>Seriously?!<br>Kill 10,000 men in one battle.<br>你是认真的？——一次战斗中战死10000个士兵。</p></li><li><p>Cold War<br>Win a war without fighting a single battle.<br>冷战——不打一场战斗而赢得战争<br>（可以通过派间谍，封锁港口、爆厌战度等方式。推荐使用西班牙，和奥地利开战时派舰队到威尼斯封锁港口他就过不来了，还能100%封锁对方港口，等他厌战度爆掉就好了，靠陆军反正也肯定打不过奥皇）</p></li><li><p>Brothers in Arms<br>Win a war as a secondary participant.<br>兄弟连——作为陪同参战国（非盟主）参加战争并且赢得胜利</p></li><li><p>My armies are invincible!<br>Gain at least 7.0 land morale.<br>我的军队是不可战胜的——陆军士气达到至少7</p></li><li><p>This navy can take it all<br>Gain at least 7.0 naval morale.<br>这只海军可以处理一切——海军士气达到至少7</p></li><li><p>Traditional Player<br>More than 90 percent Naval and Army Tradition.<br>传统玩家——90点以上的陆军和海军传统</p></li><li><p>It’s all about luck<br>Win a battle against a great leader, without a leader.<br>这场战争取决于运气——使用一只没有将领的军队，迎战一只有伟大将领的军队，然后打赢了。</p></li><li><p>Winged Hussars<br>Have Winged Hussars as your active unit with more than +50% cavalry combat ability.<br>翼骑兵——拥有并购买翼骑兵这种能够提升50%骑兵冲锋能力的兵种。近东科技组在军事等级22级后可以解锁此兵种。</p></li></ol><h2 id="探索类成就"><a href="#探索类成就" class="headerlink" title="探索类成就"></a>探索类成就</h2><ol><li><p>Down Under<br>Have a colony in Australia.<br>袋鼠王国——在澳洲殖民一个地方</p></li><li><p>Isn’t this the way to India?<br>Discover the Americas as Castile or Spain.<br>这不是去印度的道路吗？——在玩卡斯提尔或者西班牙的时候发现美洲</p></li><li><p>At every continent<br>Own one province on each continent.<br>在每个大陆上——在每个大陆上都拥有一个核心省份<br>（推荐控制伊斯坦布尔，似乎默认同时处在欧洲和亚洲）</p></li><li><p>World Discoverer<br>Discover the whole world.<br>世界探索家——探索出整个世界的地图</p></li><li><p>The Five Colonies<br>Have five colonial nations.<br>五个殖民国家——拥有五个殖民国家。殖民国家只有在美洲和澳洲的殖民地可能形成，可以参照殖民地图模式。</p></li></ol><h2 id="贸易及财富类成就"><a href="#贸易及财富类成就" class="headerlink" title="贸易及财富类成就"></a>贸易及财富类成就</h2><ol><li><p>It’s all about the money<br>Accumulate 3000 gold.<br>一切向钱看——攒够3000个金币</p></li><li><p>Market Control<br>Be trade leader of seven different goods.<br>控制市场——成为七种不同商品的垄断者</p></li><li><p>Four For Trade<br>Form four Trade Companies and get bonus merchants from all of them<br>四笔贸易——组建四个贸易公司，并且从这四家公司获得分红。需要购买国富论DLC才能成立贸易公司。</p></li><li><p>A Protected Market<br>Have 100% Mercantilism<br>被保护的市场——达到100%的重商主义政策。</p></li><li><p>A Pile of Gold<br>Own 10 provinces which produce gold.<br>蜂拥而至的黄金——拥有10个生产黄金的省份</p></li></ol><h2 id="特定国家任务成就"><a href="#特定国家任务成就" class="headerlink" title="特定国家任务成就"></a>特定国家任务成就</h2><ol><li><p>Azur semé de lis or<br>Get all the French Cores as France.<br>法兰西万岁——玩法兰西的时候统一所有有法国核心的地方</p></li><li><p>Not so sad a state…<br>As Portugal, have a colony in Brazil and in Africa.<br>不那么差的结果——玩葡萄牙，在巴西和非洲各有一块殖民地</p></li><li><p>Master of India<br>Own all of India as a European nation.<br>印度总督——玩一个欧洲国家，拥有整个印度地区</p></li><li><p>Sweden is not overpowered!<br>Own the entire Baltic coastline as Sweden.<br>瑞典永远不过被高估——使用瑞典，拥有所有波罗的海地区</p></li><li><p>The pen is mightier than the sword<br>Have three unions at the same time as Austria.<br>笔锋的威力强于枪刃——玩奥地利，同时拥有三个联合统治国家</p></li><li><p>Italian Ambition<br>Form Italy.<br>意大利的雄心——成立意大利<br>（使用意大利地区国家，触发成立意大利事件）</p></li><li><p>All belongs to Mother Russia<br>Form Russia.<br>一切都属于俄国母亲——触发成立俄罗斯事件</p></li><li><p>Spain is the Emperor<br>Become the Emperor of the Holy Roman Empire as Spain.<br>西班牙是个帝国——作为西班牙，成为神罗皇帝<br>（这显然是对应EU3那个“西班牙不是一个帝国”的梗）</p></li><li><p>An early Reich<br>Form Germany.<br>新生的德意志——触发成立德意志事件</p></li><li><p>Poland can into space<br>As Poland, reach the maximum level in all technologies (32).<br>波兰人可以登录月球——使用波兰，所有科技升到最高级（32级）</p></li><li><p>The Chrysanthemum Throne<br>Unite Japan as a Daimyo.<br>菊之王座——使用大名统一日本</p></li><li><p>Basileus<br>Restore the Roman Empire.<br>巴塞勒斯——触发重建罗马帝国事件</p></li><li><p>Norwegian Wood<br>Own all naval supplies provinces as Norway.<br>挪威的森林——使用挪威，拥有所有特产品为木材的省份</p></li><li><p>African Power<br>Own all provinces in Africa as Kongo.<br>非洲力量——使用刚过，拥有所有非洲省份</p></li><li><p>No trail of tears<br>Own the Thirteen Colonies as a westernized Cherokee.<br>没有血泪之路——使用一个美洲土著国家，完成西方化，拥有北美十三州，消除美国产生的可能。</p></li><li><p>One night in Paris<br>Own Paris as England or Great Britain.<br>巴黎一夜——使用英格兰或大不列颠，拥有巴黎。</p></li><li><p>Definitely the Sultan of Rum<br>Own Rome, Moscow and Istanbul as Ottomans.<br>罗姆（罗马）的苏丹——使用奥斯曼，拥有罗马，莫斯科和伊斯坦布尔。</p></li><li><p>The Three Mountains<br>Conquer the World as Ryukyu.<br>三座大山——使用琉球，征服世界</p></li><li><p>Jihad<br>As Najd, conquer Europe, Africa and Asia and convert it to Sunni religion.<br>圣战——使用麦加，征服欧洲、非洲、亚洲并将所有地区信仰转化为逊尼派</p></li><li><p>Sunset Invasion<br>Conquer Lisbon, Madrid, Paris, London, Amsterdam and Rome as the Aztec.<br>日落入侵——使用阿兹特克帝国，征服里斯本，马德里，巴黎，伦敦，阿姆斯特丹和罗马</p></li><li><p>Luck of the Irish<br>Conquer the British Isles as an an Irish nation.<br>爱尔兰的命运——使用一个爱尔兰地区国家，征服不列颠岛。</p></li><li><p>Trade Hegemon<br>Conquer Aden, Hormoz and Malacca with any Western European country.<br>贸易巨鳄——使用一个西方国家，征服阿丹（也门首府），霍尔木兹和马拉加。以上三地是穆斯林国家在地中海的贸易中心。</p></li><li><p>Liberty or Death<br>Start as USA in 1776 bookmark and own all your cores while being at peace.<br>自由，或是死亡——使用1776年的美国独立战争开档，然后在和平（不和殖民地国家开战）的前提下拥有全部有核心的领土。独立战争打赢英国后一口气要求所有核心地就好了。</p></li><li><p>Nobody wants to die<br>Own Timbuktu as Songhai<br>没有人想灭亡——使用桑海帝国（西非的一个国家，盛产黄金），拥有廷巴克图</p></li><li><p>Turning the Tide<br>Start as a Steppe Horde in 1444, and fully westernize.<br>扭转潮流——使用1444年剧本的一个游牧民族，完成西方化改革。</p></li><li><p>In the Name of the Father<br>As an Orthodox country, have 100 Patriarch Authority.<br>以父之名——使用一个正教国家，达成100%宗教权威。</p></li><li><p>The Rising Sun<br>Own all of Japan as a European nation.<br>日出之国——使用一个西方国家，拥有整个日本</p></li><li><p>The Great Khan<br>As the Mongol Khanate or the Golden Horde, conquer or vassalize the Chinese, Russian and Persian regions.<br>天可汗——使用蒙古或者金帐王国，征服或者附庸中国，俄罗斯和波斯地区。</p></li><li><p>Je maintiendrai<br>Form the Netherlands as a minor nation starting with Dutch culture.<br>荷兰精神——使用一个荷兰文化的小国，并且成立荷兰。</p></li><li><p>Queen of Mercury<br>As Kilwa, own Zanzibar and Bombay (North Konkan).<br>商业女王——使用基尔瓦（坦桑尼亚地区小国），拥有桑给巴尔和Bombay（西非贡根地区的那个）</p></li><li><p>Sons of Carthage<br>As Tunisia, own Sicily, Sardinia, the Balearic Islands, the coast of Algiers and the southern coast of Spain.<br>迦太基的继承人——使用突尼斯，拥有西西里，撒丁岛，巴利阿里群岛（马略卡及周边几个小岛），奥尔吉尼亚的海岸行省和西班牙的南海岸行省）</p></li><li><p>Sinaasappel!<br>Get Orangists in power with 100% Republican Tradition, and owning a province in China.<br>开发远东——在维民所示DLC中，荷兰共和国是没有一般性的共和国选举和换届的。荷兰共和国有一种特殊的机制叫做“中央集权主义者（Statists，保皇党） VS 地方自治主义者（Orangists，奥兰治党，也叫橘党）”，这两种势力的高低取决于两边所占共和国内的政治力量。当中央集权主义者当权的时候，你会拥有+10的海军上限以及+5%的贸易额，同时你的共和传统上升较快。然当地方自治主义者当权之时，你的陆军将得到+25%的上限加成，-10%的稳定花费，但是共和传统将不会逐年自然增加。如果保皇党掌握国家，那么最高领袖选举将会每4年举办一次。玩家将会得到两个随机能力的候选人，其中一个将会加强中央集权主义者的政治力量，另一个则会增加地方自治主义者的政治力量；如果奥兰治党掌握国家机器，最高领袖将终生统治整个国家，除非中央集权主义者的政治力量重新高过地方自治主义者的政治力量。<br>要完成这个成就，需要作为荷兰共和国，让奥兰治党占据100%的一会比重，然后拥有一个中国省份。</p></li><li><p>One King to Rule!<br>As Poland, become an absolutist monarchy, abolishing the Sejm.<br>君权至上——使用波兰，成为一个完全君主制国家，废除议会制度。政治科技等级20后可以选择此项政体。</p></li><li><p>Venetian Sea<br>Have a 90% Trade share in both the Alexandria and Constantinople nodes as Venice, owning less than 10 cities.<br>威尼斯的海洋——在亚历山大和康斯坦布尔两大贸易中心同时拥有90%以上市场份额，并且只拥有少于10个的城市。</p></li></ol><p>35.The Iron Price<br>Restore the Danelaw region to Danish rule, and make it Danish culture.<br>钢铁价格——让丹麦统治所有丹麦地区，包括英格兰的“丹麦法区“（也就是阿尔佛雷德大帝曾经划分的领域，约为今日英格兰东部），并且全部将其转变为丹麦文化。</p><h2 id="汉化版本完成成就的方法"><a href="#汉化版本完成成就的方法" class="headerlink" title="汉化版本完成成就的方法"></a>汉化版本完成成就的方法</h2><ol><li><p>所有成就必须在铁人模式下完成。</p></li><li><p>目前52论坛的1.73版本汉化可以开启铁人模式，可以完成成就，但是偶尔会跳出，请注意经常手动存档。自动存档读取后会失去铁人模式。</p></li><li><p>以前版本的汉化都无法开启铁人模式。可以参考此MOD完成成就：<a href="http://bbs.3dmgame.com/thread-4328643-1-1.html%EF%BC%8C%E4%BD%BF%E7%94%A81.61%E4%BB%A5%E5%89%8D%E7%89%88%E6%9C%AC%E3%80%82">http://bbs.3dmgame.com/thread-4328643-1-1.html，使用1.61以前版本。</a></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> P社 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 成就 </tag>
+            
+            <tag> 翻译 </tag>
             
         </tags>
       

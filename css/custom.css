@@ -1,8 +1,1 @@
-@font-face{
-    font-family: 'JetBrains Mono';
-    font-display: swap;
-    src: url('../font/zt.woff2') format("truetype");
-}
-body {
-    font-family: 'HarmonyOS Sans SC';
-}
+@font-face{font-family:'JetBrains Mono';font-display:swap;src:url(../font/zt.woff2) format("truetype")}body{font-family:'HarmonyOS Sans SC'}

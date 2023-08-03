@@ -126,9 +126,9 @@
             
             <tag> mod </tag>
             
-            <tag> HOI4 </tag>
-            
             <tag> 钢铁雄心4 </tag>
+            
+            <tag> HOI4 </tag>
             
         </tags>
       
@@ -1050,9 +1050,9 @@
             
             <tag> 教程 </tag>
             
-            <tag> 黄埔兵书 </tag>
-            
             <tag> 贸易 </tag>
+            
+            <tag> 黄埔兵书 </tag>
             
         </tags>
       
@@ -3284,6 +3284,37 @@
             <tag> typecho </tag>
             
             <tag> 博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>维多利亚3 成就 扫盲运动 识字率100%</title>
+      <link href="/be37752f.html"/>
+      <url>/be37752f.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="成就详解"><a href="#成就详解" class="headerlink" title="成就详解"></a>成就详解</h2><p><img src="https://cos.gjcloak.xyz/pigo/202308031131355.webp?imageMogr2/format/webp/interlace/1/quality/0" alt="img"></p><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>起步的时候，这个成就是全网第二低，仅次于背刺鬼才。网上的资料大多语焉不详。只有贴吧有一位靠谱的吧友一二三提出了解决方案<a href="https://steamcommunity.com/linkfilter/?url=http://tieba.baidu.com/p/8135523029">tieba.baidu.com&#x2F;p&#x2F;8135523029</a> ，但是于贴吧的格式，仍然不算详尽。所以我完成后决定还是认真写一写。同时感谢分享者！</p><h2 id="思路"><a href="#思路" class="headerlink" title="思路"></a>思路</h2><p>识字率是每个pop的属性，出生就会被按照国内的受教育机会被赋值，单纯拔高教育机会，即使<strong>五级教育水平</strong>在法令<strong>促进社会流动</strong>以及东马里的奇迹<strong>杰内大清真寺</strong>的帮助下还是没法100%。</p><p><img src="https://cos.gjcloak.xyz/pigo/202308031134625.webp?imageMogr2/format/webp/interlace/1/quality/0" alt="img"></p><p><img src="https://cos.gjcloak.xyz/pigo/202308031134452.webp?imageMogr2/format/webp/interlace/1/quality/0" alt="img"></p><p><img src="https://cos.gjcloak.xyz/pigo/202308031135378.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>但pop如果是在非自给农场工作，在身份转换的同时会得到再教育。比如自给农变成劳工后有机会升职为技工。</p><p><img src="https://cos.gjcloak.xyz/pigo/202308031136491.webp?imageMogr2/format/webp/interlace/1/quality/0" alt="img"></p><p>那我们要做的，就是工业化消除自给农，同时通过高识字率消除文盲。</p><p>思路清晰了，但实操有几个难点。我们来看一下识字率在游戏要怎么看。</p><p>你以为的查看识字率的方法</p><p><img src="https://cos.gjcloak.xyz/pigo/202308031136441.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>如果你只看这张图，就会掉进最大的坑，不管你如何拉高识字率，关闭国门，识字率最多就会跳到99.96%。相信我，我跑完了两个1936年都没自然等到100%。</p><p>当然你也可以使用邪道办法，就是用天灾MOD，让国内的人不断死去，最终人口快死完的时候是有机会让文盲们都狗带的。</p><p>其他的办法比如不停打仗消耗人口，那顽固的几个文盲就是有办法躲在你不知道的角落苟活。</p><p>所以正确的查看识字率的方法是人口界面。</p><p><img src="https://cos.gjcloak.xyz/pigo/202308031137540.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>然后再点开具体的职业，再指向特点人群，就可以看到这个人群的识字率了。</p><p>当然你也点开具体的建筑看劳工详情。</p><p><img src="https://cos.gjcloak.xyz/pigo/202308031137380.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>具体地块的建筑劳工详情，也可以查看详细识字率，但也是需要在职业分类里面再按照文化和宗教细分类的。</p><p>惊喜不惊喜？意外不意外？反正我看懂之后我是觉得要在这种人口管理水平下找到那个死活不读书的文盲是比等他狗带更不可能完成的任务了。</p><p>虽然现版本的确可以在任何国家完成识字率这个成就，但为了自己的身心健康，我们还是要减少难度。</p><p><strong>首先开局最好单一文化、单一宗教且封闭国门。免得放文盲进来了。</strong></p><p><strong>其次最好与大市场有陆地接壤，避免要造港口。</strong></p><p><strong>为了以后着想，我们最好还是选本身识字率不超过20的国家。不然下版本改了这字就白码了。</strong></p><p><strong>最后最好单一地块，不然鼠标耗得起，手腕扛不住。</strong></p><p><strong>综上推荐，塞尔维亚。</strong></p><p>1846年的塞尔维亚单一文化、单一宗教、一个地块，自带封锁国门。北接奥地利、南邻奥斯曼。完美~</p><p><img src="https://cos.gjcloak.xyz/pigo/202308031138552.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>开局走加工工业化，工具、家具、衣服。依托南北两个大市场搞来料加工。最好签两个贸易协定，节约行政力。逐步改革国内法律，把五级教育打开就够了。期间始终保持社会流动性的法令。很快就能够实现工业化，消灭国内的自给农庄。</p><p>因为单一宗教、单一文化、单一地块。我们很容易就能查看地块内各个建筑的识字率情况。每个职位都只有一种员工（同文化、同宗教）。</p><p><img src="https://cos.gjcloak.xyz/pigo/202308031139163.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>从而迅速把文盲找到。</p><p>还记得识字率的解释中关于职业培训的部分吗？</p><p><img src="https://cos.gjcloak.xyz/pigo/202308031139801.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><h2 id="关键"><a href="#关键" class="headerlink" title="关键"></a>关键</h2><p>接下来就是真正的骚操作了。因为国内都是来料加工，所以只要控制原料的进口或者修改企业的生产方式，就能控制每个企业的盈亏。</p><p>比如不进口染料，但是要求玻璃厂生产陶瓷；不进口硬木，但是让家具厂生产高档家具。</p><p>被“调控”的企业就会亏损从而裁员乃至关停。而只要保证其他企业在盈利且有职位空缺，那么被你“调控”到失业的文盲就会进入别的企业再培训一次。否则就会变回自给农。</p><p>随着不断找到剩下的文盲，不断地让他们换工作，他们就不断得到培训机会。于是文盲就消灭了。</p><p><img src="https://cos.gjcloak.xyz/pigo/202308031140006.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>为了方便“调控”得多发展几个行业，食品、造纸、工具、家具、服装都来几个。反正开局才800K人口，不需要多大规模就消耗完劳动力了（识字率成就只考虑劳动力）。只是随着人口增长，你的产业规模也得增长，一切以消灭自给农为标准。</p><p>所以这个成就并不是没有意义的bug，完成过程对玩家理解工业化的产业链，各个建筑的运转以及劳动力的走向都是有帮助的。</p><p>期待你看完之后也成为微操大师~</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> P社 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 成就 </tag>
+            
+            <tag> 维多利亚3 </tag>
+            
+            <tag> VIC3 </tag>
+            
+            <tag> 思路 </tag>
             
         </tags>
       
@@ -5792,9 +5823,9 @@
             
             <tag> 欧陆风云4 </tag>
             
-            <tag> 序言 </tag>
-            
             <tag> 黄埔兵书 </tag>
+            
+            <tag> 序言 </tag>
             
         </tags>
       

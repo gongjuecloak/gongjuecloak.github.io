@@ -234,9 +234,9 @@
     <category term="P社" scheme="https://blog.gjcloak.top/categories/P%E7%A4%BE/"/>
     
     
-    <category term="补丁" scheme="https://blog.gjcloak.top/tags/%E8%A1%A5%E4%B8%81/"/>
-    
     <category term="dlc" scheme="https://blog.gjcloak.top/tags/dlc/"/>
+    
+    <category term="补丁" scheme="https://blog.gjcloak.top/tags/%E8%A1%A5%E4%B8%81/"/>
     
     <category term="P社" scheme="https://blog.gjcloak.top/tags/P%E7%A4%BE/"/>
     
@@ -265,8 +265,6 @@
     <category term="P社" scheme="https://blog.gjcloak.top/categories/P%E7%A4%BE/"/>
     
     
-    <category term="补丁" scheme="https://blog.gjcloak.top/tags/%E8%A1%A5%E4%B8%81/"/>
-    
     <category term="CK3" scheme="https://blog.gjcloak.top/tags/CK3/"/>
     
     <category term="王国风云3" scheme="https://blog.gjcloak.top/tags/%E7%8E%8B%E5%9B%BD%E9%A3%8E%E4%BA%913/"/>
@@ -274,6 +272,8 @@
     <category term="Crusader Kings III" scheme="https://blog.gjcloak.top/tags/Crusader-Kings-III/"/>
     
     <category term="dlc" scheme="https://blog.gjcloak.top/tags/dlc/"/>
+    
+    <category term="补丁" scheme="https://blog.gjcloak.top/tags/%E8%A1%A5%E4%B8%81/"/>
     
   </entry>
   
@@ -301,9 +301,9 @@
     <category term="P社" scheme="https://blog.gjcloak.top/categories/P%E7%A4%BE/"/>
     
     
-    <category term="补丁" scheme="https://blog.gjcloak.top/tags/%E8%A1%A5%E4%B8%81/"/>
-    
     <category term="dlc" scheme="https://blog.gjcloak.top/tags/dlc/"/>
+    
+    <category term="补丁" scheme="https://blog.gjcloak.top/tags/%E8%A1%A5%E4%B8%81/"/>
     
     <category term="P社" scheme="https://blog.gjcloak.top/tags/P%E7%A4%BE/"/>
     
@@ -335,9 +335,9 @@
     <category term="P社" scheme="https://blog.gjcloak.top/categories/P%E7%A4%BE/"/>
     
     
-    <category term="补丁" scheme="https://blog.gjcloak.top/tags/%E8%A1%A5%E4%B8%81/"/>
-    
     <category term="dlc" scheme="https://blog.gjcloak.top/tags/dlc/"/>
+    
+    <category term="补丁" scheme="https://blog.gjcloak.top/tags/%E8%A1%A5%E4%B8%81/"/>
     
     <category term="Stellaris" scheme="https://blog.gjcloak.top/tags/Stellaris/"/>
     
@@ -645,9 +645,9 @@
     <category term="P社" scheme="https://blog.gjcloak.top/categories/P%E7%A4%BE/"/>
     
     
-    <category term="补丁" scheme="https://blog.gjcloak.top/tags/%E8%A1%A5%E4%B8%81/"/>
-    
     <category term="steam" scheme="https://blog.gjcloak.top/tags/steam/"/>
+    
+    <category term="补丁" scheme="https://blog.gjcloak.top/tags/%E8%A1%A5%E4%B8%81/"/>
     
     <category term="P社" scheme="https://blog.gjcloak.top/tags/P%E7%A4%BE/"/>
     
@@ -1534,9 +1534,9 @@
     <category term="笔记" scheme="https://blog.gjcloak.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="教程" scheme="https://blog.gjcloak.top/tags/%E6%95%99%E7%A8%8B/"/>
-    
     <category term="python" scheme="https://blog.gjcloak.top/tags/python/"/>
+    
+    <category term="教程" scheme="https://blog.gjcloak.top/tags/%E6%95%99%E7%A8%8B/"/>
     
     <category term="api" scheme="https://blog.gjcloak.top/tags/api/"/>
     
@@ -2683,13 +2683,13 @@
     <category term="笔记" scheme="https://blog.gjcloak.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="PyCharm" scheme="https://blog.gjcloak.top/tags/PyCharm/"/>
-    
     <category term="教程" scheme="https://blog.gjcloak.top/tags/%E6%95%99%E7%A8%8B/"/>
     
-    <category term="激活码" scheme="https://blog.gjcloak.top/tags/%E6%BF%80%E6%B4%BB%E7%A0%81/"/>
-    
     <category term="补丁" scheme="https://blog.gjcloak.top/tags/%E8%A1%A5%E4%B8%81/"/>
+    
+    <category term="PyCharm" scheme="https://blog.gjcloak.top/tags/PyCharm/"/>
+    
+    <category term="激活码" scheme="https://blog.gjcloak.top/tags/%E6%BF%80%E6%B4%BB%E7%A0%81/"/>
     
   </entry>
   

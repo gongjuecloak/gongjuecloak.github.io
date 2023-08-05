@@ -39,7 +39,7 @@
       <link href="/c53d54b9.html"/>
       <url>/c53d54b9.html</url>
       
-        <content type="html"><![CDATA[<p>Happy Thursday!</p><p>This week we’re looking at another of our Summer Experiments, though this one unfortunately didn’t work out as well as we had hoped.</p><p>**Class-based leader limits.**​</p><h2 id="Why-are-you-looking-at-this-​"><a href="#Why-are-you-looking-at-this-​" class="headerlink" title="Why are you looking at this?​"></a>Why are you looking at this?​</h2><p>Galactic Paragons reintroduced a limit to the number of leaders you could recruit at one time, and while it was a soft cap that you could exceed, experience gains were reduced and once you hit twice the cap, all leader experience gain stopped. In subsequent patches, we relaxed some of the numbers and added more ways to increase the cap, but it’s still a rather unpopular system that could use some work.</p><p>Currently, the presence of a less valuable leader (like a General) takes up the same “space” as something like a Scientist or Admiral, which leads to some unsatisfying gameplay decisions.</p><p>I mentioned a few things we were planning on looking at back in Dev Diary #302, along with some of the issues we expected to run into.</p><h2 id="So-what-did-you-try-​"><a href="#So-what-did-you-try-​" class="headerlink" title="So what did you try?​"></a>So what did you try?​</h2><p>During our experiments we added the ability to have individual leader caps by class, so that General mentioned above would use up General capacity, but Scientists would be governed by their own limit. “Over cap” effects would likewise be per-class, so if you had too many Admirals, their progression would slow, but other leader classes would be unaffected.</p><p>We also experimented with retaining “wild-card” capacity, so you could always get a few over before starting to run into penalties.</p><h2 id="Why-didn’t-it-work-​"><a href="#Why-didn’t-it-work-​" class="headerlink" title="Why didn’t it work?​"></a>Why didn’t it work?​</h2><p>This experiment largely failed due to UX issues. Stellaris isn’t always the easiest game to parse information from, but this turned out diabolically bad and difficult to fix.</p><p>The information transfer is made even harder by Envoys acting as their own “special version” that have their own capacity but behave entirely differently from all of the other leaders.</p><p><img src="https://cos.gjcloak.xyz/pigo/202308041910387.webp?imageMogr2/format/webp/interlace/1/quality/0"><br>It says we have 1 leader out of 3, but we actually have 4 out of 5-8. Oh no.</p><p><img src="https://cos.gjcloak.xyz/pigo/202308041910732.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>1&#x2F;1 Admirals, 0&#x2F;1 Generals, 1&#x2F;2 Scientists, 2&#x2F;1 Governors, 0&#x2F;3 Envoys (but actually 3 Envoys, 0 of which are being used), plus the Wildcards. This could possibly have been shown as something like 1&#x2F;0&#x2F;1&#x2F;2 (+2) | (3), but that’s very confusing.​</p><p>Five different leader types plus the wildcard was too difficult to explain clearly in the top bar (where the limited space is a major issue) and even in the expanded space available in tooltips.</p><p>After several variants and some UX design time, we deemed this variant a failure. We could have continued spending time refining this - but decided that we’d rather pursue a greater rework that we’re hoping to release alongside the 3.10 update. (Custodian initiatives do not generally have hard release dates - if it’s not ready by 3.10 freeze, it’ll move out to 3.11.)</p><p>I’ll go into full details after Caelum is released, but the quick summary involves consolidating the five leader classes down to three (Commanders, Diplomats, and Scientists) and reworking how Envoys are used. (As they would be merged into the Diplomat class.)</p><p><img src="https://cos.gjcloak.xyz/pigo/202308041911333.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>Yes, we’ve had one, yes, but what about second leader rework?​</p><p>Until then, we’re planning on making some adjustments to the over-cap formulas to reduce their negative effects until the greater rework is ready.</p><h2 id="Tell-us-about-Caelum-then-​"><a href="#Tell-us-about-Caelum-then-​" class="headerlink" title="Tell us about Caelum then!​"></a>Tell us about Caelum then!​</h2><p>Like the Stellaris 3.1 ‘Lem’ update, 3.9 ‘Caelum’ has a lot of general improvements scattered across a great number of game systems.</p><p>Common Ground and Hegemony are getting some improvements:<br>Your starting federation members no longer own your immediately neighboring systems, allowing both you and them some room for early expansion.<br>The Federation now starts with 0 Cohesion (instead of -100) and halfway to Level 2 (600 XP instead of 0 XP).<br>The requirements for the Origins have been relaxed to allow non-genocidal Hive-Minds and Machine Intelligences to take them. This also allows your AI federation members to occasionally spawn as Hive-Minds or Machine Intelligences.</p><p>We also have some balance changes done for Archaeotechs:</p><ul><li>Halved the energy upkeep of the Facility of Archaeostudies.</li><li>Added the Archaeotech Focus admiral trait, which grants increased damage and fire rate with Archaeotech weapons.</li><li>Decreased the research speed and draw weight for Archaeotech from the Expertise trait, but made it reduce the Minor Artifact cost for ship components.</li><li>The starting head of research for Remnants empires now has the Expertise: Archaeostudies trait.</li><li>The Archaeoengineers AP now reduces Minor Artifact cost for ship components by 10%</li><li>Increased the range of Macro Batteries by 50%.</li></ul><p><img src="https://cos.gjcloak.xyz/pigo/202308041913170.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p><img src="https://cos.gjcloak.xyz/pigo/202308041913249.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><h2 id="Next-week…​"><a href="#Next-week…​" class="headerlink" title="Next week…​"></a>Next week…​</h2><p>Here are some things that we’ll be talking about in the next few weeks:</p><p><img src="https://cos.gjcloak.xyz/pigo/202308041913291.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>Pixelated collage of lots of tooltips that I figure you’ll have deciphered by the end of the day. We’ll reveal all of these, and more.​</p><p>We’ll be starting with all the improvements to the Lithoids Species Pack, that are intended on bringing it up to the level of the others..</p><p>See you then!</p>]]></content>
+        <content type="html"><![CDATA[<p>Happy Thursday!</p><p>This week we’re looking at another of our Summer Experiments, though this one unfortunately didn’t work out as well as we had hoped.</p><p><strong>Class-based leader limits</strong>​</p><h2 id="Why-are-you-looking-at-this-​"><a href="#Why-are-you-looking-at-this-​" class="headerlink" title="Why are you looking at this?​"></a>Why are you looking at this?​</h2><p>Galactic Paragons reintroduced a limit to the number of leaders you could recruit at one time, and while it was a soft cap that you could exceed, experience gains were reduced and once you hit twice the cap, all leader experience gain stopped. In subsequent patches, we relaxed some of the numbers and added more ways to increase the cap, but it’s still a rather unpopular system that could use some work.</p><p>Currently, the presence of a less valuable leader (like a General) takes up the same “space” as something like a Scientist or Admiral, which leads to some unsatisfying gameplay decisions.</p><p>I mentioned a few things we were planning on looking at back in Dev Diary #302, along with some of the issues we expected to run into.</p><h2 id="So-what-did-you-try-​"><a href="#So-what-did-you-try-​" class="headerlink" title="So what did you try?​"></a>So what did you try?​</h2><p>During our experiments we added the ability to have individual leader caps by class, so that General mentioned above would use up General capacity, but Scientists would be governed by their own limit. “Over cap” effects would likewise be per-class, so if you had too many Admirals, their progression would slow, but other leader classes would be unaffected.</p><p>We also experimented with retaining “wild-card” capacity, so you could always get a few over before starting to run into penalties.</p><h2 id="Why-didn’t-it-work-​"><a href="#Why-didn’t-it-work-​" class="headerlink" title="Why didn’t it work?​"></a>Why didn’t it work?​</h2><p>This experiment largely failed due to UX issues. Stellaris isn’t always the easiest game to parse information from, but this turned out diabolically bad and difficult to fix.</p><p>The information transfer is made even harder by Envoys acting as their own “special version” that have their own capacity but behave entirely differently from all of the other leaders.</p><p><img src="https://cos.gjcloak.xyz/pigo/202308041910387.webp?imageMogr2/format/webp/interlace/1/quality/0"><br>It says we have 1 leader out of 3, but we actually have 4 out of 5-8. Oh no.</p><p><img src="https://cos.gjcloak.xyz/pigo/202308041910732.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>1&#x2F;1 Admirals, 0&#x2F;1 Generals, 1&#x2F;2 Scientists, 2&#x2F;1 Governors, 0&#x2F;3 Envoys (but actually 3 Envoys, 0 of which are being used), plus the Wildcards. This could possibly have been shown as something like 1&#x2F;0&#x2F;1&#x2F;2 (+2) | (3), but that’s very confusing.​</p><p>Five different leader types plus the wildcard was too difficult to explain clearly in the top bar (where the limited space is a major issue) and even in the expanded space available in tooltips.</p><p>After several variants and some UX design time, we deemed this variant a failure. We could have continued spending time refining this - but decided that we’d rather pursue a greater rework that we’re hoping to release alongside the 3.10 update. (Custodian initiatives do not generally have hard release dates - if it’s not ready by 3.10 freeze, it’ll move out to 3.11.)</p><p>I’ll go into full details after Caelum is released, but the quick summary involves consolidating the five leader classes down to three (Commanders, Diplomats, and Scientists) and reworking how Envoys are used. (As they would be merged into the Diplomat class.)</p><p><img src="https://cos.gjcloak.xyz/pigo/202308041911333.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>Yes, we’ve had one, yes, but what about second leader rework?​</p><p>Until then, we’re planning on making some adjustments to the over-cap formulas to reduce their negative effects until the greater rework is ready.</p><h2 id="Tell-us-about-Caelum-then-​"><a href="#Tell-us-about-Caelum-then-​" class="headerlink" title="Tell us about Caelum then!​"></a>Tell us about Caelum then!​</h2><p>Like the Stellaris 3.1 ‘Lem’ update, 3.9 ‘Caelum’ has a lot of general improvements scattered across a great number of game systems.</p><p>Common Ground and Hegemony are getting some improvements:<br>Your starting federation members no longer own your immediately neighboring systems, allowing both you and them some room for early expansion.<br>The Federation now starts with 0 Cohesion (instead of -100) and halfway to Level 2 (600 XP instead of 0 XP).<br>The requirements for the Origins have been relaxed to allow non-genocidal Hive-Minds and Machine Intelligences to take them. This also allows your AI federation members to occasionally spawn as Hive-Minds or Machine Intelligences.</p><p>We also have some balance changes done for Archaeotechs:</p><ul><li>Halved the energy upkeep of the Facility of Archaeostudies.</li><li>Added the Archaeotech Focus admiral trait, which grants increased damage and fire rate with Archaeotech weapons.</li><li>Decreased the research speed and draw weight for Archaeotech from the Expertise trait, but made it reduce the Minor Artifact cost for ship components.</li><li>The starting head of research for Remnants empires now has the Expertise: Archaeostudies trait.</li><li>The Archaeoengineers AP now reduces Minor Artifact cost for ship components by 10%</li><li>Increased the range of Macro Batteries by 50%.</li></ul><p><img src="https://cos.gjcloak.xyz/pigo/202308041913170.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p><img src="https://cos.gjcloak.xyz/pigo/202308041913249.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><h2 id="Next-week…​"><a href="#Next-week…​" class="headerlink" title="Next week…​"></a>Next week…​</h2><p>Here are some things that we’ll be talking about in the next few weeks:</p><p><img src="https://cos.gjcloak.xyz/pigo/202308041913291.webp?imageMogr2/format/webp/interlace/1/quality/0"></p><p>Pixelated collage of lots of tooltips that I figure you’ll have deciphered by the end of the day. We’ll reveal all of these, and more.​</p><p>We’ll be starting with all the improvements to the Lithoids Species Pack, that are intended on bringing it up to the level of the others..</p><p>See you then!</p>]]></content>
       
       
       <categories>
@@ -763,9 +763,9 @@
       
         <tags>
             
-            <tag> 笔记 </tag>
-            
             <tag> 分享 </tag>
+            
+            <tag> 笔记 </tag>
             
             <tag> 子比主题 </tag>
             
@@ -2598,11 +2598,11 @@
       
         <tags>
             
+            <tag> 需求分析 </tag>
+            
             <tag> 知识 </tag>
             
             <tag> 初级 </tag>
-            
-            <tag> 需求分析 </tag>
             
         </tags>
       
@@ -2903,9 +2903,9 @@
       
         <tags>
             
-            <tag> 笔记 </tag>
-            
             <tag> 搭建 </tag>
+            
+            <tag> 笔记 </tag>
             
             <tag> 阅读 </tag>
             
@@ -2957,11 +2957,11 @@
       
         <tags>
             
-            <tag> 需求 </tag>
-            
             <tag> 项目管理 </tag>
             
             <tag> 初级 </tag>
+            
+            <tag> 需求 </tag>
             
             <tag> 延期 </tag>
             
@@ -3017,9 +3017,9 @@
             
             <tag> 入门指南 </tag>
             
-            <tag> 攻击技术 </tag>
-            
             <tag> 方法 </tag>
+            
+            <tag> 攻击技术 </tag>
             
         </tags>
       
@@ -3316,9 +3316,9 @@
       
         <tags>
             
-            <tag> typecho </tag>
-            
             <tag> 博客 </tag>
+            
+            <tag> typecho </tag>
             
         </tags>
       
@@ -3343,9 +3343,9 @@
       
         <tags>
             
-            <tag> typecho </tag>
-            
             <tag> 博客 </tag>
+            
+            <tag> typecho </tag>
             
         </tags>
       
@@ -3370,9 +3370,9 @@
       
         <tags>
             
-            <tag> typecho </tag>
-            
             <tag> 博客 </tag>
+            
+            <tag> typecho </tag>
             
         </tags>
       
@@ -3482,11 +3482,11 @@
       
         <tags>
             
+            <tag> 项目管理 </tag>
+            
             <tag> 需求 </tag>
             
             <tag> 项目 </tag>
-            
-            <tag> 项目管理 </tag>
             
         </tags>
       
@@ -3538,9 +3538,9 @@
       
         <tags>
             
-            <tag> MediaWiki </tag>
-            
             <tag> 笔记 </tag>
+            
+            <tag> MediaWiki </tag>
             
         </tags>
       
@@ -3565,9 +3565,9 @@
       
         <tags>
             
-            <tag> 数据库 </tag>
-            
             <tag> 面试题 </tag>
+            
+            <tag> 数据库 </tag>
             
         </tags>
       
@@ -3874,9 +3874,9 @@
       
         <tags>
             
-            <tag> Ubuntu </tag>
-            
             <tag> 学习笔记 </tag>
+            
+            <tag> Ubuntu </tag>
             
             <tag> nginx </tag>
             
@@ -4372,11 +4372,11 @@
       
         <tags>
             
-            <tag> 面向对象编程 </tag>
-            
             <tag> 学习笔记 </tag>
             
             <tag> python </tag>
+            
+            <tag> 面向对象编程 </tag>
             
         </tags>
       
@@ -4658,9 +4658,9 @@
       
         <tags>
             
-            <tag> 学习笔记 </tag>
-            
             <tag> 去中心化 </tag>
+            
+            <tag> 学习笔记 </tag>
             
             <tag> misskey </tag>
             
@@ -4689,13 +4689,13 @@
       
         <tags>
             
-            <tag> 方法 </tag>
-            
             <tag> 学习笔记 </tag>
             
             <tag> mastodon </tag>
             
             <tag> 导入 </tag>
+            
+            <tag> 方法 </tag>
             
         </tags>
       
@@ -4778,11 +4778,11 @@
       
         <tags>
             
-            <tag> docker </tag>
-            
             <tag> 笔记 </tag>
             
             <tag> 去中心化 </tag>
+            
+            <tag> docker </tag>
             
             <tag> mastodon </tag>
             
@@ -4813,9 +4813,9 @@
       
         <tags>
             
-            <tag> 学习笔记 </tag>
-            
             <tag> 搭建 </tag>
+            
+            <tag> 学习笔记 </tag>
             
             <tag> 静态博客 </tag>
             
@@ -4871,9 +4871,9 @@
       
         <tags>
             
-            <tag> typecho魔改 </tag>
-            
             <tag> joe </tag>
+            
+            <tag> typecho魔改 </tag>
             
             <tag> 美化 </tag>
             
@@ -4900,11 +4900,11 @@
       
         <tags>
             
+            <tag> 项目管理 </tag>
+            
             <tag> 产品经理 </tag>
             
             <tag> 需求 </tag>
-            
-            <tag> 项目管理 </tag>
             
         </tags>
       
@@ -5155,11 +5155,11 @@
       
         <tags>
             
-            <tag> 网易云音乐 </tag>
-            
             <tag> YesPlayMusic </tag>
             
             <tag> 播放器 </tag>
+            
+            <tag> 网易云音乐 </tag>
             
             <tag> 音乐 </tag>
             
@@ -5186,11 +5186,11 @@
       
         <tags>
             
-            <tag> docker </tag>
+            <tag> 搭建 </tag>
             
             <tag> 学习笔记 </tag>
             
-            <tag> 搭建 </tag>
+            <tag> docker </tag>
             
             <tag> VScode </tag>
             
@@ -5246,9 +5246,9 @@
       
         <tags>
             
-            <tag> hexo </tag>
-            
             <tag> chart </tag>
+            
+            <tag> hexo </tag>
             
             <tag> 动态图表 </tag>
             
@@ -5360,11 +5360,11 @@
       
         <tags>
             
-            <tag> hexo </tag>
-            
             <tag> 搭建 </tag>
             
             <tag> 配置 </tag>
+            
+            <tag> hexo </tag>
             
             <tag> 注意事项 </tag>
             
@@ -5391,13 +5391,13 @@
       
         <tags>
             
-            <tag> hexo </tag>
-            
             <tag> 搭建 </tag>
             
             <tag> 静态博客 </tag>
             
             <tag> 自动化 </tag>
+            
+            <tag> hexo </tag>
             
             <tag> 安装 </tag>
             
@@ -5509,11 +5509,11 @@
       
         <tags>
             
-            <tag> 项目管理 </tag>
-            
             <tag> 知识领域 </tag>
             
             <tag> 综合管理 </tag>
+            
+            <tag> 项目管理 </tag>
             
         </tags>
       
@@ -5968,11 +5968,11 @@
       
         <tags>
             
+            <tag> Anaconda </tag>
+            
             <tag> 入门指南 </tag>
             
             <tag> 学习笔记 </tag>
-            
-            <tag> Anaconda </tag>
             
         </tags>
       
@@ -6030,9 +6030,9 @@
       
         <tags>
             
-            <tag> 数据库 </tag>
-            
             <tag> 学习笔记 </tag>
+            
+            <tag> 数据库 </tag>
             
         </tags>
       
@@ -6115,11 +6115,11 @@
       
         <tags>
             
-            <tag> Ubuntu </tag>
-            
             <tag> 博客 </tag>
             
             <tag> 教程 </tag>
+            
+            <tag> Ubuntu </tag>
             
             <tag> wordpess </tag>
             
@@ -6202,11 +6202,11 @@
       
         <tags>
             
-            <tag> 面试题 </tag>
+            <tag> 学习笔记 </tag>
             
             <tag> C语言 </tag>
             
-            <tag> 学习笔记 </tag>
+            <tag> 面试题 </tag>
             
         </tags>
       
@@ -6345,9 +6345,9 @@
       
         <tags>
             
-            <tag> C语言 </tag>
-            
             <tag> 学习笔记 </tag>
+            
+            <tag> C语言 </tag>
             
         </tags>
       
@@ -6372,9 +6372,9 @@
       
         <tags>
             
-            <tag> C语言 </tag>
-            
             <tag> 学习笔记 </tag>
+            
+            <tag> C语言 </tag>
             
             <tag> 链表 </tag>
             
@@ -6401,9 +6401,9 @@
       
         <tags>
             
-            <tag> C语言 </tag>
-            
             <tag> 学习笔记 </tag>
+            
+            <tag> C语言 </tag>
             
             <tag> 位运算 </tag>
             
@@ -6430,9 +6430,9 @@
       
         <tags>
             
-            <tag> C语言 </tag>
-            
             <tag> 学习笔记 </tag>
+            
+            <tag> C语言 </tag>
             
             <tag> 文件 </tag>
             
@@ -6459,9 +6459,9 @@
       
         <tags>
             
-            <tag> C语言 </tag>
-            
             <tag> 学习笔记 </tag>
+            
+            <tag> C语言 </tag>
             
             <tag> 程序结构 </tag>
             
@@ -6488,9 +6488,9 @@
       
         <tags>
             
-            <tag> C语言 </tag>
-            
             <tag> 学习笔记 </tag>
+            
+            <tag> C语言 </tag>
             
             <tag> 结构类型 </tag>
             
@@ -6517,11 +6517,11 @@
       
         <tags>
             
+            <tag> 学习笔记 </tag>
+            
             <tag> C语言 </tag>
             
             <tag> 字符串 </tag>
-            
-            <tag> 学习笔记 </tag>
             
         </tags>
       
@@ -6546,9 +6546,9 @@
       
         <tags>
             
-            <tag> C语言 </tag>
-            
             <tag> 学习笔记 </tag>
+            
+            <tag> C语言 </tag>
             
             <tag> 指针 </tag>
             
@@ -6575,9 +6575,9 @@
       
         <tags>
             
-            <tag> C语言 </tag>
-            
             <tag> 学习笔记 </tag>
+            
+            <tag> C语言 </tag>
             
             <tag> 数组 </tag>
             
@@ -6604,9 +6604,9 @@
       
         <tags>
             
-            <tag> C语言 </tag>
-            
             <tag> 学习笔记 </tag>
+            
+            <tag> C语言 </tag>
             
             <tag> 基本语法 </tag>
             
@@ -6633,9 +6633,9 @@
       
         <tags>
             
-            <tag> C语言 </tag>
-            
             <tag> 学习笔记 </tag>
+            
+            <tag> C语言 </tag>
             
             <tag> 编程基础 </tag>
             
